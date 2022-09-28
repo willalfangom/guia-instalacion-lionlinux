@@ -1,0 +1,14 @@
+site_name: Guia de instalacion de LionLinux
+
+nav:
+  - Inicio: 'index.md'
+  - 'Guia de instalacion':
+    - 'Instalar LionLinux con Systemback': 'instalar-lionlinux-systemback.md'
+    - 'Instalar LionLinux arch 32 bits': 'instalar-lionlinux-arch32.md'
+  - Acerca de: 'about.md'
+   
+
+theme: readthedocs
+
+
+
